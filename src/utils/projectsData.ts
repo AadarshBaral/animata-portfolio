@@ -126,7 +126,7 @@ const projectsData: Line[] = [
                 className: 'text-green-500 lg:text-3xl md:text-2xl underline decoration-dotted',
                 isLink: true,
                 isExternalLink: true,
-                linkTo: 'https://collegechamps.com',
+                linkTo: 'https://lionfish-app-eidpj.ondigitalocean.app/',
             },
             {
                 type: 'punctuation',
